@@ -1,0 +1,40 @@
+body{
+   
+    
+      
+    background: 
+    url('24.jpg') ;
+   
+   
+}
+.navbar-brand{
+    size: 180px;
+    color: rgb(0, 0, 0);
+    font-family: 'Pacifico', cursive; 
+}
+.nav-link:hover{
+    color: rgb(11, 239, 7);
+}
+.text-brand{
+    color: rgb(177, 43, 43);
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

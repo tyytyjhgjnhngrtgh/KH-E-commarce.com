@@ -1,0 +1,21 @@
+.container{
+    display:grid ;
+    grid-template-columns: repeat(auto-fit,minmax(250px, auto));
+    align-items: center;
+    gap: 1.5rem;
+    text-align: center;
+}
+.box:hover{
+    padding: 0px 20px 10px 20px;
+    background: transparent;
+    box-shadow: 5px 30px 56.1276px rgb(55 55 55 / 12%);
+    border-radius: 10px;
+    position: relative;
+    transition: all 0.2s ease-in;
+
+}
+.box{
+    width: 100%;
+    height: auto;
+    margin-bottom: 0.5rem;
+}
